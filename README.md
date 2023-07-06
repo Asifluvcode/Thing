@@ -1,5 +1,5 @@
 
-<div align='center'><img style="width:30%" src='https://github.com/alisprofile/Depth/assets/97518196/e98493fa-dddd-4258-8c36-3b195a248fc0'/></div>
+<div align='center'><img style="width:30%" src='https://github.com/alisprofile/Depth/assets/97518196/e95522b8-2693-4e83-aa09-076a4042de45'/></div>
 
 <h2>About the project</h2>
 
