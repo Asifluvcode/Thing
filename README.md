@@ -5,7 +5,7 @@
 
   <p>A <b>Thing</b> is  the premier online art gallery site, where your artistic and unique creations shine before a global audience, enabling seamless art sales.</p>
 
-👉 Live Demo: <a href='https://alisprofile.github.io/Depth/'>Live Demo</a>
+👉 Live Demo: <a href='https://thing-art.vercel.app/'>Thing</a>
 
 <h3>Build with:</h3>
 
