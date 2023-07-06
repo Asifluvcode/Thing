@@ -1,18 +1,16 @@
 
-<div align='center'><img style="width:30%" src='https://github.com/alisprofile/Depth/assets/97518196/cd536127-18f2-40c8-a107-14ff58cb1f41'/></div>
+<div align='center'><img style="width:30%" src='https://github.com/alisprofile/Depth/assets/97518196/e98493fa-dddd-4258-8c36-3b195a248fc0'/></div>
 
 <h2>About the project</h2>
 
-  <p>A <b>DEPTH </b>website(Distributive Educational Platform Transformative Hybrid) is an online E-Learning platform that allows users to Learn, purchase and post coursrs according to their choices.</p>
+  <p>A <b>Thing</b> is  the premier online art gallery site, where your artistic and unique creations shine before a global audience, enabling seamless art sales.</p>
 
 👉 Live Demo: <a href='https://alisprofile.github.io/Depth/'>Live Demo</a>
 
 <h3>Build with:</h3>
 
 » Bootstrap<br>
-» SCSS</br>
 » PHP</br>
-» MySql</br>
 » JavaScript</br>
 » HTML/CSS
 
