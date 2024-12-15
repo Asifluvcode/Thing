@@ -13,15 +13,3 @@
 » PHP</br>
 » JavaScript</br>
 » HTML/CSS
-
-
-<h2>Screenshots of the Project 📸</h2>
-<br>
-<h3 align='center'>Home Page 🏡</h3>
-
-<div align='center'>
-<img src='https://github.com/alisprofile/Depth/assets/97518196/8fb9672f-66a8-4811-9610-3c822ed97bbd'/>
-<img src='https://github.com/alisprofile/Depth/assets/97518196/b54d4370-31ea-4b18-ac6e-a02a0843f00f'/>
-<img src='https://github.com/alisprofile/Depth/assets/97518196/cf63c0a2-e3ef-4c6d-9bef-90aeff552120'/>
-
-</div>
